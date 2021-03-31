@@ -1,0 +1,16 @@
+.aboutus h2,.advantage h1,.ecosystem h1,.prodata .protitle h1,.index-history .title h2 {
+    font-weight: bold;
+	 letter-spacing: 5px;
+}
+.ecosystem .card-body {
+    height: 20rem;
+}
+.ecosystem .card p {
+	font-size: 14px;
+	line-height: 21px;
+}
+
+.ecosystem .card h2 {
+    font-size: 28px;
+    font-weight: 700;
+}
